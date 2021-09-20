@@ -1,6 +1,6 @@
 {
     "short_name": "PWA",
-    "name": "PWA sample app",
+    "name": "附属物点検システムアプリPWA",
     "display": "standalone",
     "start_url": "index.html",
     "icons": [
